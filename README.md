@@ -1,0 +1,1 @@
+select and buy from supermarket
